@@ -1,4 +1,4 @@
-# rocketseat-cursoJavaScript
+# rocketseat
 
 Estudos de Javascript e outros.
 Conteúdo destinado a starters de Front-end.
