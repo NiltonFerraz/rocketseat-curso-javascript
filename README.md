@@ -1,4 +1,4 @@
 # rocketseat
 
-Estudos de Javascript e outros.
+Meus estudos de Javascript e outros.
 Conteúdo destinado a starters de Front-end.
